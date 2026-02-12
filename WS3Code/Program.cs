@@ -14,7 +14,7 @@
 
 
 
-            return 0;
+            return 10;
         }
 
         public static int GetSmallestValue(int[] values)
